@@ -1,5 +1,4 @@
 require 'net/http'
-require 'byebug'
 require 'json'
 require 'date'
 require 'whirly'
